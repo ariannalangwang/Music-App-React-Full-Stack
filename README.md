@@ -2,7 +2,7 @@
 A Web App built with Express, React, and a MySQL database.
 
 # Architecture  :white_check_mark:
-(ALL) List of technologies, description of system architecture/application used for the project
+List of technologies, description of system architecture/application used for the project
 * Pandas (Python) for data cleaning & pre-processing 
 * MySQL
 * DataGrip
