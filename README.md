@@ -1,5 +1,5 @@
 # Musical PlayLand :crystal_ball:
-A Web App built with Express.js, React, and a MySQL database.
+A Full-Stack Web App built with Express.js, React, and a MySQL database.
 
 # Architecture  :white_check_mark:
 List of technologies used:
