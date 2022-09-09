@@ -2,15 +2,15 @@
 A Web App built with Express.js, React, and a MySQL database.
 
 # Architecture  :white_check_mark:
-List of technologies, description of system architecture/application used for the project
+List of technologies used:
 * Pandas (Python) for data cleaning & pre-processing 
 * MySQL
 * DataGrip
+* Node.js (Express.js)
 * AWS
 * HTML
 * CSS
 * Bootstrap
-* Node.js (Express.js)
 * React
 
 # Web App description :sparkles:
